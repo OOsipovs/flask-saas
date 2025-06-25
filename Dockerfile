@@ -1,5 +1,5 @@
 FROM python:3.7.5-slim-buster
-MAINTAINER Olegs Osipovs <olegs.osipovs@gmail.com>
+LABEL MAINTAINER="Olegs Osipovs <olegs.osipovs@gmail.com>"
 
 ENV INSTALL_PATH /snakeeyes
 RUN mkdir -p $INSTALL_PATH
