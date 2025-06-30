@@ -34,3 +34,4 @@ pytest-cov==4.1.0
 flake8==5.0.4
 
 Click==8.1.6
+Flask-DebugToolbar==0.13.1
